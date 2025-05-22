@@ -90,7 +90,7 @@ composer test
 
 ## Security
 
-If you discover any security issues, please email your.email@example.com instead of using the issue tracker.
+If you discover any security issues, please email yassineaitsidibrahim@example.com instead of using the issue tracker.
 
 ## Credits
 
